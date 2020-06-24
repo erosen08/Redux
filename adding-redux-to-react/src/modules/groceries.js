@@ -11,5 +11,5 @@ const groceries = (state = initialState, action) => {
 }
 
 export {
-  groceries: groceries
+  groceries
 }
